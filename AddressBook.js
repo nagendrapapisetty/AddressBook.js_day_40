@@ -56,5 +56,5 @@ class AddressBook{
     }
 }
 
-let addressBook = new AddressBook("Nagendra","papisetty","A.C Nagar","Nellore","A.P","524002","7995976638","NagendraPapisetty@gmail.com")
+let addressBook = new AddressBook("Nagendra","papisetty","A.C Nagar","Nellore","Andhra pradesh","524002","7995976638","NagendraPapisetty@gmail.com")
 console.log(addressBook.toString());
